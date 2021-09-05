@@ -13,5 +13,6 @@ public class TestWhile {
         System.out.println("Hello Git!");
         System.out.println("Hello Git!");
         System.out.println("Hello Git!4");
+        System.out.println("Master test");
     }
 }
