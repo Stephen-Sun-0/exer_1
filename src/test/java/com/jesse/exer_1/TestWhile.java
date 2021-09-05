@@ -10,5 +10,6 @@ public class TestWhile {
             i++;
         }
         System.out.println(sum);
+        System.out.println("Hello Git!");
     }
 }
