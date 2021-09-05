@@ -16,5 +16,6 @@ public class TestWhile {
         System.out.println("Master test");
         System.out.println("Hot-fix test");
         System.out.println("push test");
+        System.out.println("gitee test");
     }
 }
