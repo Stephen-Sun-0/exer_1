@@ -12,5 +12,6 @@ public class TestWhile {
         System.out.println(sum);
         System.out.println("Hello Git!");
         System.out.println("Hello Git!");
+        System.out.println("Hello Git!4");
     }
 }
